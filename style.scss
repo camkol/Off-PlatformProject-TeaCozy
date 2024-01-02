@@ -204,6 +204,25 @@ footer {
   }
 }
 
+@media only screen and (max-width: 1030px) {
+  #address {
+    .addresses {
+      margin: 15px;
+    }
+  }
+}
+@media only screen and (max-width: 1000px) {
+  #specials {
+    width: 100%;
+  }
+  #address {
+    .addresses {
+      margin: 5px;
+      width: 235px;
+      font-size: 1rem;
+    }
+  }
+}
 @media only screen and (max-width: 480px) {
   header {
     width: 100%;

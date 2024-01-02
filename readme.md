@@ -10,3 +10,4 @@
 
 -Improved responsiveness
 -Worked on images and made self-sufficient
+-Improved responsiveness for tablet
